@@ -9,11 +9,7 @@
         src="ERDDiagram.png"
         alt="Coding Animation"
       />
+<hr/>
 
-          <img
-        align="right"
-        src="classDiagram.png"
-        alt="Coding Animation"
-      />
 </body>
 </html>
